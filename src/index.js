@@ -3,4 +3,3 @@ import { Router } from './core/router/router'
 
 new Router();
 
-console.log(location)
